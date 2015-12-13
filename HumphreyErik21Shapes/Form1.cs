@@ -5,7 +5,7 @@
     /\__/ /| | | || (_| || |_) ||  __/\__ \
     \____/ |_| |_| \__,_|| .__/  \___||___/
                      | |               
-                     |_|                        */    
+                     |_|                        */
 
 /* Author: Erik Humphrey
  * Project title: Project 21 - Shapes
@@ -52,7 +52,7 @@ namespace HumphreyErik21Shapes
         {
             // Free up system resources by disposing pen and graphics objects
             if (drewSomething) // Prevent program from throwing an exception if it's closed without anything being drawn
-               myPen.Dispose(); 
+                myPen.Dispose();
             myGraphics.Dispose();
         }
 

@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmShapeDemo));
             this.pnlDraw = new System.Windows.Forms.Panel();
             this.btnDraw = new System.Windows.Forms.Button();
             this.radEllipse = new System.Windows.Forms.RadioButton();
@@ -112,6 +113,7 @@
             this.Controls.Add(this.btnDraw);
             this.Controls.Add(this.pnlDraw);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimizeBox = false;
             this.Name = "frmShapeDemo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

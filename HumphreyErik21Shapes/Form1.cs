@@ -10,7 +10,7 @@
 /* Author: Erik Humphrey
  * Project title: Project 21 - Shapes
  * Date started: December 13th 2015
- * Executable name: HumphreyErik20Shapes.exe
+ * Executable name: HumphreyErik21Shapes.exe
  * Description: Program that repetitively draws random coloured ellipses, rectangles, and lines
  */
 

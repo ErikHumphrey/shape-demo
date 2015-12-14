@@ -7,7 +7,7 @@ Repetitively draws random coloured ellipses, rectangles, and lines.
 
 ##Installation
 
-Download from the [Releases page](https://github.com/ErikHumphrey/cardwar/releases) and save to any directory. Open `HumphreyErik20CardWars.exe`.
+Download from the [Releases page](https://github.com/ErikHumphrey/shape-demo/releases) and save to any directory. Open `HumphreyErik21ShapeDemo.exe`.
 
 ####System requirements
 

@@ -1,5 +1,5 @@
 # shape-demo
-Repetitively draws random coloured ellipses, rectangles, and lines.
+Repeteadly draws random coloured ellipses, rectangles, and lines.
 
 ## Usage
 
